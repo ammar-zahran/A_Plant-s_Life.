@@ -1,5 +1,5 @@
 import 'package:a_plants_life/data/cart.dart';
-import 'package:a_plants_life/designYourGradenPage/designYourGradenBody.dart';
+import 'package:a_plants_life/designYourGradenPage/designYourGardenMainPage.dart';
 import 'package:a_plants_life/expertPage/components/designyourgradenexprt.dart';
 import 'package:a_plants_life/expertPage/components/palnttrackerexpert.dart';
 import 'package:a_plants_life/expertPage/expertMainPage.dart';
