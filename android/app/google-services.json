@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642369329794",
+    "project_id": "a-plant-s-life-ab64e",
+    "storage_bucket": "a-plant-s-life-ab64e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642369329794:android:9e223ab489900812eef29b",
+        "android_client_info": {
+          "package_name": "com.example.a_plants_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642369329794-brqrt8s4obgvhbl5c71ukos4b404r8ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWcJBdvG7dNljw_VoX7J0hX_geyBwTkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642369329794-brqrt8s4obgvhbl5c71ukos4b404r8ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
